@@ -77,7 +77,7 @@ class ViewController: UIViewController {
     }
     
     
-    //
+    // Objective-C like observer
     func addObserver() {
         print("#addObserver")
         
